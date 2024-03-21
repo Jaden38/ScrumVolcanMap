@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Udintsev Transform",
+        "country": "Undersea Features",
+        "lat": "-56.153",
+        "lon": "-143.373",
+        "elevation": "-5700"
+    },
+    {
+        "name": "Pico Fracture Zone",
+        "country": "Undersea Features",
+        "lat": "38.75",
+        "lon": "-38.08",
+        "elevation": "-4200"
+    },
+    {
+        "name": "Mariana Back-Arc Segment at 15.5°N",
+        "country": "United States",
+        "lat": "15.406",
+        "lon": "144.506",
+        "elevation": "-4100"
+    },
+    {
+        "name": "East Gakkel Ridge at 85°E",
+        "country": "Undersea Features",
+        "lat": "85.608",
+        "lon": "85.25",
+        "elevation": "-3800"
+    },
+    {
+        "name": "Jackson Segment",
+        "country": "United States",
+        "lat": "42.15",
+        "lon": "-127.05",
+        "elevation": "-3100"
+    },
+    {
+        "name": "North Gorda Ridge Segment",
+        "country": "United States",
+        "lat": "42.67",
+        "lon": "-126.78",
+        "elevation": "-3000"
+    },
+    {
+        "name": "East Blanco Depression",
+        "country": "Undersea Features",
+        "lat": "44.267",
+        "lon": "-129.879",
+        "elevation": "-3000"
+    },
+    {
+        "name": "Northern EPR at 10.7°N",
+        "country": "Undersea Features",
+        "lat": "10.73",
+        "lon": "-103.58",
+        "elevation": "-2900"
+    },
+    {
+        "name": "Southern EPR at 8°S",
+        "country": "Undersea Features",
+        "lat": "-8.27",
+        "lon": "-107.95",
+        "elevation": "-2800"
+    },
+    {
+        "name": "Northern EPR at 17°N",
+        "country": "Mexico",
+        "lat": "16.55",
+        "lon": "-105.32",
+        "elevation": "-2700"
+    }
+]

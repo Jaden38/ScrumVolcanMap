@@ -1,0 +1,338 @@
+[
+    {
+        "Name": "Stromboli",
+        "Country": "Italy",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "38.789",
+        "Longitude": "15.213",
+        "Elevation (m)": "924"
+    },
+    {
+        "Name": "Etna",
+        "Country": "Italy",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "37.748",
+        "Longitude": "14.999",
+        "Elevation (m)": "3357"
+    },
+    {
+        "Name": "Erta Ale",
+        "Country": "Ethiopia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "13.601",
+        "Longitude": "40.666",
+        "Elevation (m)": "585"
+    },
+    {
+        "Name": "Lengai, Ol Doinyo",
+        "Country": "Tanzania",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-2.764",
+        "Longitude": "35.914",
+        "Elevation (m)": "2962"
+    },
+    {
+        "Name": "Nyamulagira",
+        "Country": "DR Congo",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-1.408",
+        "Longitude": "29.2",
+        "Elevation (m)": "3058"
+    },
+    {
+        "Name": "Manam",
+        "Country": "Papua New Guinea",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-4.08",
+        "Longitude": "145.037",
+        "Elevation (m)": "1807"
+    },
+    {
+        "Name": "Langila",
+        "Country": "Papua New Guinea",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-5.525",
+        "Longitude": "148.42",
+        "Elevation (m)": "1330"
+    },
+    {
+        "Name": "Kavachi",
+        "Country": "Solomon Islands",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-8.991",
+        "Longitude": "157.979",
+        "Elevation (m)": "-20"
+    },
+    {
+        "Name": "Tinakula",
+        "Country": "Solomon Islands",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-10.386",
+        "Longitude": "165.804",
+        "Elevation (m)": "796"
+    },
+    {
+        "Name": "Ambrym",
+        "Country": "Vanuatu",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-16.25",
+        "Longitude": "168.12",
+        "Elevation (m)": "1334"
+    },
+    {
+        "Name": "Yasur",
+        "Country": "Vanuatu",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-19.532",
+        "Longitude": "169.447",
+        "Elevation (m)": "361"
+    },
+    {
+        "Name": "Marapi",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-0.38",
+        "Longitude": "100.474",
+        "Elevation (m)": "2885"
+    },
+    {
+        "Name": "Merapi",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-7.54",
+        "Longitude": "110.446",
+        "Elevation (m)": "2910"
+    },
+    {
+        "Name": "Semeru",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-8.108",
+        "Longitude": "112.922",
+        "Elevation (m)": "3657"
+    },
+    {
+        "Name": "Lewotobi",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-8.542",
+        "Longitude": "122.775",
+        "Elevation (m)": "1703"
+    },
+    {
+        "Name": "Lewotolok",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-8.274",
+        "Longitude": "123.508",
+        "Elevation (m)": "1431"
+    },
+    {
+        "Name": "Karangetang",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "2.781",
+        "Longitude": "125.407",
+        "Elevation (m)": "1797"
+    },
+    {
+        "Name": "Dukono",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "1.6992",
+        "Longitude": "127.8783",
+        "Elevation (m)": "1273"
+    },
+    {
+        "Name": "Ibu",
+        "Country": "Indonesia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "1.488",
+        "Longitude": "127.63",
+        "Elevation (m)": "1325"
+    },
+    {
+        "Name": "Mayon",
+        "Country": "Philippines",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "13.257",
+        "Longitude": "123.685",
+        "Elevation (m)": "2462"
+    },
+    {
+        "Name": "Suwanosejima",
+        "Country": "Japan",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "29.638",
+        "Longitude": "129.714",
+        "Elevation (m)": "796"
+    },
+    {
+        "Name": "Kikai",
+        "Country": "Japan",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "30.793",
+        "Longitude": "130.305",
+        "Elevation (m)": "704"
+    },
+    {
+        "Name": "Aira",
+        "Country": "Japan",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "31.5772",
+        "Longitude": "130.6589",
+        "Elevation (m)": "1117"
+    },
+    {
+        "Name": "Ahyi",
+        "Country": "United States",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "20.42",
+        "Longitude": "145.03",
+        "Elevation (m)": "-75"
+    },
+    {
+        "Name": "Ebeko",
+        "Country": "Russia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "50.686",
+        "Longitude": "156.014",
+        "Elevation (m)": "1103"
+    },
+    {
+        "Name": "Bezymianny",
+        "Country": "Russia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "55.972",
+        "Longitude": "160.595",
+        "Elevation (m)": "2882"
+    },
+    {
+        "Name": "Klyuchevskoy",
+        "Country": "Russia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "56.056",
+        "Longitude": "160.642",
+        "Elevation (m)": "4754"
+    },
+    {
+        "Name": "Sheveluch",
+        "Country": "Russia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "56.653",
+        "Longitude": "161.36",
+        "Elevation (m)": "3283"
+    },
+    {
+        "Name": "Great Sitkin",
+        "Country": "United States",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "52.076",
+        "Longitude": "-176.13",
+        "Elevation (m)": "1740"
+    },
+    {
+        "Name": "Shishaldin",
+        "Country": "United States",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "54.756",
+        "Longitude": "-163.97",
+        "Elevation (m)": "2857"
+    },
+    {
+        "Name": "Popocatepetl",
+        "Country": "Mexico",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "19.023",
+        "Longitude": "-98.622",
+        "Elevation (m)": "5393"
+    },
+    {
+        "Name": "Santa Maria",
+        "Country": "Guatemala",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "14.757",
+        "Longitude": "-91.552",
+        "Elevation (m)": "3745"
+    },
+    {
+        "Name": "Fuego",
+        "Country": "Guatemala",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "14.473",
+        "Longitude": "-90.88",
+        "Elevation (m)": "3763"
+    },
+    {
+        "Name": "Rincon de la Vieja",
+        "Country": "Costa Rica",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "10.83",
+        "Longitude": "-85.324",
+        "Elevation (m)": "1916"
+    },
+    {
+        "Name": "Poas",
+        "Country": "Costa Rica",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "10.2",
+        "Longitude": "-84.233",
+        "Elevation (m)": "2697"
+    },
+    {
+        "Name": "Ruiz, Nevado del",
+        "Country": "Colombia",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "4.892",
+        "Longitude": "-75.324",
+        "Elevation (m)": "5279"
+    },
+    {
+        "Name": "Reventador",
+        "Country": "Ecuador",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-0.077",
+        "Longitude": "-77.656",
+        "Elevation (m)": "3562"
+    },
+    {
+        "Name": "Sangay",
+        "Country": "Ecuador",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-2.005",
+        "Longitude": "-78.341",
+        "Elevation (m)": "5286"
+    },
+    {
+        "Name": "Fernandina",
+        "Country": "Ecuador",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-0.37",
+        "Longitude": "-91.55",
+        "Elevation (m)": "1476"
+    },
+    {
+        "Name": "Sabancaya",
+        "Country": "Peru",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-15.787",
+        "Longitude": "-71.857",
+        "Elevation (m)": "5960"
+    },
+    {
+        "Name": "Villarrica",
+        "Country": "Chile",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "-39.42",
+        "Longitude": "-71.93",
+        "Elevation (m)": "2847"
+    },
+    {
+        "Name": "Reykjanes",
+        "Country": "Iceland",
+        "Last Known Eruption": "2024 CE",
+        "Latitude": "63.817",
+        "Longitude": "-22.717",
+        "Elevation (m)": "140"
+    }
+]
